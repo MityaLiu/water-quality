@@ -1,0 +1,21 @@
+== README
+
+* Ruby version
+  2.0.0
+
+* System dependencies
+  MySql / PostgreSql
+
+* Configuration
+  bundle install
+
+* Database creation
+  configure database.yml
+  rake db:create
+  rake db:migrate
+
+* Database initialization
+  rake db:seed
+
+* How to run the test suite
+  rake spec

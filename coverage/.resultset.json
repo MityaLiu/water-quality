@@ -1,0 +1,73 @@
+{
+  "RSpec": {
+    "coverage": {
+      "D:/mac/Zest/water-quality/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "D:/mac/Zest/water-quality/app/models/factor_weights.rb": [
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "D:/mac/Zest/water-quality/app/models/water_sample.rb": [
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        3,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        3,
+        null,
+        null,
+        12,
+        12,
+        3,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        3,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        2,
+        2,
+        2,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1401913950
+  }
+}
